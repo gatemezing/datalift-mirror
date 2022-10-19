@@ -1,4 +1,4 @@
-== HowTo use Datalift ==
+## HowTo use Datalift 
 - Download the zip file
 - Unzip in your local machine
 -  Go to the installed repository
